@@ -218,6 +218,25 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@fantasy123/html2pdf@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@fantasy123/html2pdf/-/html2pdf-1.0.0.tgz#f3824cd9e79ed4025714cb7331d375168a971d64"
+  integrity sha512-3oD8aauaUdKfEf6yKwOsWz5X/33e5pwLOfBJ8uezVQxtN7CY6Eeq8n+Bf0vq6bnC9K7D4K2JE9ILoLX/tM26vA==
+  dependencies:
+    react "^16.0.0"
+    react-dom "^16.0.0"
+    react-router "^3.2.1"
+
+"@fantasy123/html2pdf@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@fantasy123/html2pdf/-/html2pdf-1.0.1.tgz#d61df40a781a08cf67c7633b189013ebe8ed4b1d"
+  integrity sha512-0CtROd1GexEENAE/tqI+5IJ0LQXXPerQT6hz7rjHZn/BIjkxMhLZzJ+ueqaKbmYsbhHLrqUecskbDsy2nAhAkA==
+  dependencies:
+    "@fantasy123/html2pdf" "^1.0.0"
+    react "^16.0.0"
+    react-dom "^16.0.0"
+    react-router "^3.2.1"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"

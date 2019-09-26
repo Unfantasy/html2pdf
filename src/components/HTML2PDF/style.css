@@ -1,0 +1,30 @@
+.report-pdf {
+  padding: 1px 0;
+  color: #222;
+  font-size: 14px;
+  line-height: 1.7;
+  background: #ccc;
+}
+
+.report-pdf img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+/* 打印按钮 */
+.print-btn {
+  margin: 0 auto 40px;
+  padding: 5px 240px;
+  width: fit-content;
+  background: #1890ff;
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+  user-select: none;
+  transition: opacity 0.8s;
+}
+
+.print-btn:hover {
+  opacity: 0.8;
+}

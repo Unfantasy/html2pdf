@@ -1,7 +1,7 @@
 // 单页
 import React, { Component } from 'react';
 import { PAGE_HEIGHT } from '../HTML2PDF/constants';
-import './style.scss';
+import './style.css';
 
 export default class PDF extends Component {
   render() {

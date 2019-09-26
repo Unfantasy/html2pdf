@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { handlePush, splitHtmlText } from './utils';
 import { PAGE_CONTENT_HEIGHT } from './constants';
 import PDF from '../PDF';
-import './style.scss';
+import './style.css';
 
 export default class extends Component {
   state = {
